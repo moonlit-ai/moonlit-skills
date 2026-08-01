@@ -4,7 +4,7 @@ Curated skills for the Moonlit MCP server, authored and maintained by Moonlit.
 
 A skill is a plain markdown file of instructions that an AI assistant reads once and applies from then on. These skills govern how an assistant works with Moonlit's legal research tools: the governing law is found first, verified at the source, and every claim of law carries a citation that can be checked in place.
 
-This repository is the source of truth for the skill content. The skill library, with downloads and per-skill pages, is published at [www.moonlit.ai/docs/mcp/skills](https://www.moonlit.ai/docs/mcp/skills); the site rebuilds from this repository automatically.
+This repository is the source of truth for the skill content. The skill library, with downloads and per-skill pages, is published at [www.moonlit.ai/docs/mcp/skills](https://www.moonlit.ai/docs/mcp/skills).
 
 ## The skills
 
