@@ -3,9 +3,9 @@ name: moonlit-memo
 description: "Produces a Moonlit legal research memo: verified sources, complete footnotes beneath every paragraph, a reasoned position, and a document fit for review by a qualified lawyer, in the language of the user's input. Self-contained: this file carries the full sourcing, verification and citation discipline of the Moonlit Legal Research MCP and the method of legal analysis, so it works with no other file installed. Load for any request for a memo, a legal opinion, a written legal analysis, or substantiated advice on a legal question."
 metadata:
   version: "1.0"
-  works-best-with: "Reasoning on high effort; a client that can create files and run parallel subtasks"
+  works-best-with: "Reasoning on high effort; an app that can create files and run parallel subtasks"
   pairs-with: "works standalone; the operator and reasoning disciplines are built in"
-  updated: "2026-08-01"
+  updated: "2026-08-02"
 ---
 
 # moonlit-memo

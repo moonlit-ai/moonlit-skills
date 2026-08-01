@@ -28,7 +28,7 @@ One folder per skill, `<slug>/SKILL.md`, following the open Agent Skills format.
 ```yaml
 metadata:
   version: "1.0"
-  works-best-with: "Reasoning on high effort; a client that can create files and run parallel subtasks"
+  works-best-with: "Reasoning on high effort; an app that can create files and run parallel subtasks"
   pairs-with: "moonlit-operator"
   updated: "2026-08-01"
 ```
