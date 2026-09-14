@@ -13,6 +13,7 @@ This repository is the source of truth for the skill content. The skill library,
 | [`moonlit-operator`](moonlit-operator/SKILL.md) | Sourcing discipline: what counts as a source and what a citation must be | Any legal work with Moonlit tools available |
 | [`moonlit-reasoning`](moonlit-reasoning/SKILL.md) | Analysis method: how law is applied to facts once sources are established | The assistant should analyze rather than merely report |
 | [`moonlit-memo`](moonlit-memo/SKILL.md) | The full research memo: both disciplines embedded, plus the memo deliverable | You want written memos; it needs neither of the other two |
+| [`moonlit-skill-builder`](moonlit-skill-builder/SKILL.md) | Builds a custom skill for the user's own deliverable with Moonlit's sourcing standard built in | You want your own deliverable, in your style, on Moonlit sources |
 
 ## Install
 
@@ -34,6 +35,8 @@ metadata:
 ```
 
 All metadata keys are optional; absence renders nothing on the site. The phrasing is guidance ("works best with"), never a hard requirement: a skill degrades gracefully in clients without these capabilities.
+
+A skill may also ship a `references/` folder next to its `SKILL.md`; the copies of `moonlit-operator` and `moonlit-reasoning` inside `moonlit-skill-builder/references/` are pinned at release and must be updated when those skills change version.
 
 ## Governance
 
