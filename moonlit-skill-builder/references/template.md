@@ -44,7 +44,7 @@ Establish once whether the environment can read uploaded files and produce files
 {{From the probe, as statements about the corpus: the legal orders, the official publications by name, the bodies and the kinds of document this deliverable rests on. Written so the skill starts oriented: which layer to search first, which notation variants the sources use, which body governs the question.}}
 
 {{Where the probe found a gap, one sentence stating it as a fact about the sources, and what the skill does at that point: works the covered layers and states the gap in the deliverable where it matters. Followed by this line, kept verbatim:}}
-Where a source this deliverable needs is not held, tell the user in one sentence which source it is, and add: You can request it at {{SOURCE_REQUEST_URL}}.
+Where a source this deliverable needs is not held, tell the user in one sentence which source it is, and add: You can request it at https://form.typeform.com/to/PEGKB332.
 
 {{Where web-search is on, this paragraph, kept verbatim:}}
 Web search is a second layer, never the first. Use it for what the sources do not hold: a regulator's press release, a consultation, a news item, a publication not yet in the corpus. Report such material with its link, in its own place in the deliverable, marked as not verified against an official publication. It never carries a note and never supports a statement of what the law is.

@@ -44,9 +44,9 @@ Write the result into the skill's Sources section as facts about the corpus, so 
 
 **Covered.** "Moonlit holds what this skill needs: [jurisdiction] legislation from [publication], case law from [courts, publication], and [body] guidance. The skill searches those layers."
 
-**Partly covered.** "Moonlit covers [X] for [jurisdiction]: [publications, kinds of document]. It does not hold [Y], which your [deliverable] would normally draw on. Three options. Build on what is covered, and the skill states the gap in each deliverable where it matters. Narrow the skill to [the covered part]. Or add web search as a second layer for [Y]: web material is reported with its link, marked as not verified against an official publication, and never used to state what the law is. Which do you want? You can request [Y] at [SOURCE_REQUEST_URL]."
+**Partly covered.** "Moonlit covers [X] for [jurisdiction]: [publications, kinds of document]. It does not hold [Y], which your [deliverable] would normally draw on. Three options. Build on what is covered, and the skill states the gap in each deliverable where it matters. Narrow the skill to [the covered part]. Or add web search as a second layer for [Y]: web material is reported with its link, marked as not verified against an official publication, and never used to state what the law is. Which do you want? You can request [Y] at https://form.typeform.com/to/PEGKB332."
 
-**Not covered.** "Moonlit does not hold [Y] for [jurisdiction] today, and this skill would rest on it. I will not build a skill that answers from memory or from the open web alone; its citations could not be checked. I can build it so it works once Moonlit adds the source, or we stop here. You can request [Y] at [SOURCE_REQUEST_URL]."
+**Not covered.** "Moonlit does not hold [Y] for [jurisdiction] today, and this skill would rest on it. I will not build a skill that answers from memory or from the open web alone; its citations could not be checked. I can build it so it works once Moonlit adds the source, or we stop here. You can request [Y] at https://form.typeform.com/to/PEGKB332."
 
 State every gap as a fact about the sources, never as a fault in the request. Where the probe is ambiguous, say what you found and ask rather than guess.
 
